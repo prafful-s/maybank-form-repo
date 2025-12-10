@@ -1,0 +1,5 @@
+mountpoints:
+  /:
+    url: "https://author-p92105-e821341.adobeaemcloud.com/bin/franklin.delivery/Adobe-DemoPOC/maybank/main"
+    type: "markup"
+    suffix: ".html"
